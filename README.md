@@ -1,4 +1,4 @@
-# Altronix Engien Art
+# Altronix Engine Art
 
 This repository contains raw art project files used in the development of FNF-Altronix Engine and Friday Night Funkin'.
 
